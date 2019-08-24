@@ -2,10 +2,15 @@
 
 Consists of:
 ## How to unzip input files from a zip file
-  1. Installation of Package
-  2. Example of unzipping the zip file
+  1. Installation of Package: pyunpack
+  2. Example of unzipping the zip file using pyunpack
   Refer this Notebook: Unzip_example.ipynb and Input file: DemoImage.zip
   for more information refer: https://limitlessdatascience.wordpress.com/analytics/
+  
+## How to create a zip of a folder containing data
+  1. Using shutil (no need to install seperately)
+  2. Code explaining how to create a zip file
+  Refer this notebook: 1.1_Zip_folders_python.ipynb
   
 ## Study Data:
   1. Simple Graph for a input features using Pandas plot() and interpretations.  
